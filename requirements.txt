@@ -1,0 +1,3 @@
+# Offline mode: Python >=3.9, no third-party dependencies
+# Optional for --mode groq:
+groq>=0.20

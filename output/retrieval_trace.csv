@@ -1,0 +1,26 @@
+﻿gap_id,query,rank,paper_id,score,url
+G1,Apa penelitian yang memakai RAG untuk medication safety dibanding medical QA biasa?,1,P13,0.34159,https://pmc.ncbi.nlm.nih.gov/articles/PMC12629785/
+G1,Apa penelitian yang memakai RAG untuk medication safety dibanding medical QA biasa?,2,P09,0.2132,https://pubmed.ncbi.nlm.nih.gov/42456600/
+G1,Apa penelitian yang memakai RAG untuk medication safety dibanding medical QA biasa?,3,P02,0.16437,https://aclanthology.org/2024.findings-acl.372/
+G1,Apa penelitian yang memakai RAG untuk medication safety dibanding medical QA biasa?,4,P07,0.15916,https://pubmed.ncbi.nlm.nih.gov/40697073/
+G1,Apa penelitian yang memakai RAG untuk medication safety dibanding medical QA biasa?,5,P08,0.12309,https://aclanthology.org/2026.eacl-long.291/
+G2,Apakah penelitian terdahulu menguji kelengkapan informasi pasien sebelum alternatif obat dibahas?,1,P03,0.13942,https://doi.org/10.1016/j.jbi.2024.104662
+G2,Apakah penelitian terdahulu menguji kelengkapan informasi pasien sebelum alternatif obat dibahas?,2,P02,0.10423,https://aclanthology.org/2024.findings-acl.372/
+G2,Apakah penelitian terdahulu menguji kelengkapan informasi pasien sebelum alternatif obat dibahas?,3,P11,0.09746,https://pmc.ncbi.nlm.nih.gov/articles/PMC11997844/
+G2,Apakah penelitian terdahulu menguji kelengkapan informasi pasien sebelum alternatif obat dibahas?,4,P06,0.06653,https://pubmed.ncbi.nlm.nih.gov/37139824/
+G2,Apakah penelitian terdahulu menguji kelengkapan informasi pasien sebelum alternatif obat dibahas?,5,P09,0.05946,https://pubmed.ncbi.nlm.nih.gov/42456600/
+G3,Bagaimana structured retrieval / rule-linked retrieval dibanding dense retrieval?,1,P04,0.26926,https://www.nature.com/articles/s41746-024-01377-1
+G3,Bagaimana structured retrieval / rule-linked retrieval dibanding dense retrieval?,2,P01,0.10368,https://arxiv.org/abs/2005.11401
+G3,Bagaimana structured retrieval / rule-linked retrieval dibanding dense retrieval?,3,P02,0.10343,https://aclanthology.org/2024.findings-acl.372/
+G3,Bagaimana structured retrieval / rule-linked retrieval dibanding dense retrieval?,4,P11,0.07803,https://pmc.ncbi.nlm.nih.gov/articles/PMC11997844/
+G3,Bagaimana structured retrieval / rule-linked retrieval dibanding dense retrieval?,5,P09,0.06401,https://pubmed.ncbi.nlm.nih.gov/42456600/
+G4,Bagaimana abstention dan unnecessary withholding seharusnya dievaluasi di klinik?,1,P08,0.39946,https://aclanthology.org/2026.eacl-long.291/
+G4,Bagaimana abstention dan unnecessary withholding seharusnya dievaluasi di klinik?,2,P03,0.10349,https://doi.org/10.1016/j.jbi.2024.104662
+G4,Bagaimana abstention dan unnecessary withholding seharusnya dievaluasi di klinik?,3,P13,0.03185,https://pmc.ncbi.nlm.nih.gov/articles/PMC12629785/
+G4,Bagaimana abstention dan unnecessary withholding seharusnya dievaluasi di klinik?,4,P02,0.02951,https://aclanthology.org/2024.findings-acl.372/
+G4,Bagaimana abstention dan unnecessary withholding seharusnya dievaluasi di klinik?,5,P10,0.02839,https://www.mdpi.com/2673-2688/6/9/226
+G5,Apa peran AGS Beers dan sumber alternatif terapi dalam RAG geriatrik?,1,P07,0.38184,https://pubmed.ncbi.nlm.nih.gov/40697073/
+G5,Apa peran AGS Beers dan sumber alternatif terapi dalam RAG geriatrik?,2,P06,0.18712,https://pubmed.ncbi.nlm.nih.gov/37139824/
+G5,Apa peran AGS Beers dan sumber alternatif terapi dalam RAG geriatrik?,3,P04,0.12079,https://www.nature.com/articles/s41746-024-01377-1
+G5,Apa peran AGS Beers dan sumber alternatif terapi dalam RAG geriatrik?,4,P12,0.11384,https://doi.org/10.1016/j.procs.2025.09.116
+G5,Apa peran AGS Beers dan sumber alternatif terapi dalam RAG geriatrik?,5,P13,0.06691,https://pmc.ncbi.nlm.nih.gov/articles/PMC12629785/

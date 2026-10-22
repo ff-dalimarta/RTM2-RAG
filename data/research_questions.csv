@@ -1,0 +1,6 @@
+gap_id,question,target_tag
+G1,Apa penelitian yang memakai RAG untuk medication safety dibanding medical QA biasa?,medication-safety
+G2,Apakah penelitian terdahulu menguji kelengkapan informasi pasien sebelum alternatif obat dibahas?,clarification
+G3,Bagaimana structured retrieval / rule-linked retrieval dibanding dense retrieval?,structured-retrieval
+G4,Bagaimana abstention dan unnecessary withholding seharusnya dievaluasi di klinik?,uncertainty
+G5,Apa peran AGS Beers dan sumber alternatif terapi dalam RAG geriatrik?,clinical-guideline

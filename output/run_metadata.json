@@ -1,0 +1,8 @@
+{
+  "mode": "offline",
+  "retriever": "TF-IDF cosine (dependency-free local)",
+  "total_papers": 13,
+  "top_k": 5,
+  "model": null,
+  "warning": "Hypothesized gaps based on annotated abstracts; verify against full texts before definitive novelty claim."
+}
